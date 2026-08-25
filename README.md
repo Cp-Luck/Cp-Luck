@@ -16,7 +16,7 @@ Software Engineering · Machine Learning · AI Engineering · Data Science
 
 ## Technical stack
 
-- **Languages:** Python, JavaScript
+- **Languages:** Python, JavaScript, TypeScript
 - **Backend:** FastAPI, REST API design, SQLite
 - **Frontend:** React (Vite), vanilla JS/HTML/CSS
 - **ML:** PyTorch, CNNs
@@ -30,6 +30,10 @@ Software Engineering · Machine Learning · AI Engineering · Data Science
 **[Digimon Deck Builder](https://github.com/Cp-Luck/digimon-deck-builder)** — Full-stack deck builder for the Digimon TCG: FastAPI backend, React/Vite frontend, live card pricing pulled from TCGplayer with caching. Tested with pytest.
 
 **[Facial Emotion Classifier](https://github.com/Cp-Luck/emotion_detection)** — CNN (PyTorch) classifying facial expressions into 7 emotions on FER-2013, with batch normalization, augmentation, and LR scheduling. 66.0% test accuracy, with per-class results and the iteration history (feedforward → basic CNN → regularized CNN) documented in the repo.
+
+## Contributions
+
+**[Blaster Hack](https://github.com/ltv0/blaster-hack-commandline-game)** — a terminal-styled browser game (TypeScript, canvas rendering) built with a small team. 28 commits: gameplay bug fixes (including a level-7 freeze), a refactor extracting the game's asset/charset module, and several of the visual effects (cloud glow, snow drip, wind). [Live demo](https://www.ltv0.me/blaster-hack-commandline-game/).
 
 ## Contact
 
