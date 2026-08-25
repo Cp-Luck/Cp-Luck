@@ -33,7 +33,7 @@ Software Engineering · Machine Learning · AI Engineering · Data Science
 
 ## Hackathons
 
-**[Weather Report Game](https://github.com/ltv0/blaster-hack-commandline-game)** — *Golden, CO, March 2026 · 2nd place.* A terminal-styled weather-themed browser game (TypeScript, canvas rendering, Vite) built with a team in 3 days. Implemented core game mechanics/logic and UI/player interactions; 28 commits total, including gameplay bug fixes (a level-7 freeze), a refactor extracting the game's asset/charset module, and several of the visual effects (cloud glow, snow drip, wind). [Live demo](https://www.ltv0.me/blaster-hack-commandline-game/).
+**Weather Report Game** — *BlasterHacks 2026, Golden, CO · 2nd place.* A terminal-styled weather-themed browser game (TypeScript, canvas rendering, Vite) built with a team in 3 days. Implemented core game mechanics/logic and UI/player interactions; 28 commits total, including gameplay bug fixes (a level-7 freeze), a refactor extracting the game's asset/charset module, and several of the visual effects (cloud glow, snow drip, wind). [Devpost](https://devpost.com/software/weather-report-2aew5f) · [Source](https://github.com/ltv0/blaster-hack-commandline-game) · [Live demo](https://www.ltv0.me/blaster-hack-commandline-game/).
 
 ## Contact
 
