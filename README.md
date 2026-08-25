@@ -31,9 +31,9 @@ Software Engineering · Machine Learning · AI Engineering · Data Science
 
 **[Facial Emotion Classifier](https://github.com/Cp-Luck/emotion_detection)** — CNN (PyTorch) classifying facial expressions into 7 emotions on FER-2013, with batch normalization, augmentation, and LR scheduling. 66.0% test accuracy, with per-class results and the iteration history (feedforward → basic CNN → regularized CNN) documented in the repo.
 
-## Contributions
+## Hackathons
 
-**[Blaster Hack](https://github.com/ltv0/blaster-hack-commandline-game)** — a terminal-styled browser game (TypeScript, canvas rendering) built with a small team. 28 commits: gameplay bug fixes (including a level-7 freeze), a refactor extracting the game's asset/charset module, and several of the visual effects (cloud glow, snow drip, wind). [Live demo](https://www.ltv0.me/blaster-hack-commandline-game/).
+**[Weather Report Game](https://github.com/ltv0/blaster-hack-commandline-game)** — *Golden, CO, March 2026 · 2nd place.* A terminal-styled weather-themed browser game (TypeScript, canvas rendering, Vite) built with a team in 3 days. Implemented core game mechanics/logic and UI/player interactions; 28 commits total, including gameplay bug fixes (a level-7 freeze), a refactor extracting the game's asset/charset module, and several of the visual effects (cloud glow, snow drip, wind). [Live demo](https://www.ltv0.me/blaster-hack-commandline-game/).
 
 ## Contact
 
