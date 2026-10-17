@@ -4,7 +4,7 @@
 
 Currently focused on **AI/ML engineering, backend development, and production-ready Python applications.**
 
-[LinkedIn](https://www.linkedin.com/in/caleb-pham) · [phamcal2003@gmail.com](mailto:phamcal2003@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/caleb-pham-0629a7287) · [phamcal2003@gmail.com](mailto:phamcal2003@gmail.com)
 
 ## Featured Projects
 
